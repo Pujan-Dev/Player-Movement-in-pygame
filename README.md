@@ -15,7 +15,7 @@ A simple Pygame project demonstrating basic player movement using the arrow keys
 
 ## Installation
 1. Clone the repository:
-
+```git clone https://github.com/Pujan-Dev/Player-Movement-in-pygame```
 
 2. Navigate to the project folder:
 
